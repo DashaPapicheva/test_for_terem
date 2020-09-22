@@ -35,16 +35,16 @@ h1 {
   border-radius: 20px;
   flex-grow: 1;
 }
-.columns-of-row2-first {
+#columnsOfRow2First {
   margin-right: .5%;
   background-color: skyblue;
 }
-.columns-of-row2-second {
+#columnsOfRow2Second {
   margin-right: .5%;
   border: 1px dashed black;
   background-color: coral;
 }
-.columns-of-row2-third {
+#columnsOfRow2Third {
   background-color: lightseagreen;
 }
 
